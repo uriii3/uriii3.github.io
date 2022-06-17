@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my personal webpage
 
 You can use the [editor on GitHub](https://github.com/uriii3/uriii3.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
